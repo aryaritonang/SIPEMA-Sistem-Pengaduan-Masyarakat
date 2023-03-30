@@ -4,6 +4,6 @@ Cara Penggunaan:
 - Install folder vendor
 - Buat database baru (nama database ada di file .env)
 - Jalankan perintah:
-php artisan migrate:fresh --seed
-php artisan optimize
-php artisan serve
+- php artisan migrate:fresh --seed
+- php artisan optimize
+- php artisan serve
